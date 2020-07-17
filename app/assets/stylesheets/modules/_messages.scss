@@ -108,6 +108,7 @@
       background-color: #fafafa;
       height: calc(100vh - 100px - 90px);
       padding: 35px 40px 0;
+      overflow: scroll;
 
       .MessageBox {
         margin-bottom: 46px; 
