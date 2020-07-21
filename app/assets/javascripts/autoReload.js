@@ -62,5 +62,5 @@ $(function(){
       alert('error');
     });
   };
-  setInterval(reloadMessages, 20000);
+  setInterval(reloadMessages, 7000);
 });
